@@ -2,10 +2,9 @@ import React from 'react';
 import { render, screen, fireEvent } from '@testing-library/react';
 import Tasks from './Tasks';
 
-// Mock tasks data for testing
 const mockTasks = [
-  { id: 1, taskName: 'Task 1', completed: false },
-  { id: 2, taskName: 'Task 2', completed: true }
+  { taskName: 'Task 1', completed: false },
+  { taskName: 'Task 2', completed: true }
 ];
 
 describe('Tasks component', () => {
