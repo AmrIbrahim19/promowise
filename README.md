@@ -12,7 +12,7 @@ Promowise Task Manager.
 
 Clone the repository to your local machine using the following command:
 
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/AmrIbrahim19/promowise.git
 
 ### Install Required Node Modules
 
